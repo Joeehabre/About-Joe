@@ -121,7 +121,7 @@ I help build and maintain this organisation's production web platform (public si
 ### 🎓 University Projects *(team)*
 
 - [**AUB Course Review Platform**](https://github.com/Joeehabre/Course-Reviews-Project) 🌐  
-  Full-stack platform where AUB students anonymously review courses and professors — verified access, moderated content. Team project for **CMPS 271**; I was the largest contributor.  
+  Full-stack platform where AUB students anonymously review courses and professors — verified access, moderated content. Five-person team project for **CMPS 271**; I wrote the admin API and worked on the reviews page, routing, and landing page.  
   *Tech:* React, Vite, FastAPI, SQLAlchemy, PostgreSQL, Alembic.
 
 - [**Connect-4**](https://github.com/Joeehabre/Connect4-240-Project) 🔴  
