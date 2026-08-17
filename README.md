@@ -12,7 +12,7 @@
 
 I'm in my **third and final year of Computer Science at AUB**.
 
-Most of what I know comes from building things end to end. I spent this summer interning at **MT2**, working across a large ASP.NET Core platform: payments, background services, and a voice-driven feature. I also contribute to **[Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, where I help build and maintain a production web platform with a team of seven, working through pull requests and code review.
+Most of what I know comes from building things end to end. I spent this summer interning at **MT2**, working across a large ASP.NET Core platform: payments, background services, and a voice-driven feature. I also contribute to **[Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, where I help build and maintain a production web platform with a team of three, working through pull requests and code review.
 
 Outside of that I write a lot of systems and tooling code for its own sake: a Unix shell and an HTTP server in C, a thread pool and hash map in C++, and generic data structures in C#. I like understanding how things work underneath the abstractions.  
 
