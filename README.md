@@ -14,7 +14,7 @@ I'm in my **third and final year of Computer Science at AUB**.
 
 Most of what I know comes from building things end to end. I spent this summer interning at **MT2**, working across a large ASP.NET Core platform — payments, background services, and a voice-driven feature. I also contribute to **[Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, where I help build and maintain a production web platform with a team of seven, working through pull requests and code review.
 
-Outside of that I write a lot of systems and tooling code for its own sake — a Unix shell and an HTTP server in C, a thread pool and hash map in C++, and generic data structures in C#. I like understanding how things work underneath the abstractions.  
+Outside of that I write a lot of systems and tooling code for its own sake, a Unix shell and an HTTP server in C, a thread pool and hash map in C++, and generic data structures in C#. I like understanding how things work underneath the abstractions.  
 
 ---
 
@@ -31,11 +31,11 @@ Outside of that I write a lot of systems and tooling code for its own sake — a
 **Full-Stack Engineering Intern — MT2** · *Summer 2026*  
 Worked on a full **fitness-club management platform** built as a six-project ASP.NET Core solution (REST API, admin CMS, public website, and a shared domain/data core). Top contributor on the team by commit count.
 
-- **Payments** — integrated **Stripe** checkout and webhook handling, plus cash-order flows
-- **AI features** — built a **voice coach** with speech-to-speech interaction, and a "Log My Day" activity tracker
-- **Background services** — reminder and notification services for bookings, schedules, and renewals
-- **Engagement** — designed a badges-and-rewards system and a dynamic form builder
-- **Front end** — membership and profile flows, image/avatar storage, a full **dark-mode theme**, and mobile responsive work
+- **Payments**: integrated **Stripe** checkout and webhook handling, plus cash-order flows
+- **AI features**: built a **voice coach** with speech-to-speech interaction, and a "Log My Day" activity tracker
+- **Background services**: reminder and notification services for bookings, schedules, and renewals
+- **Engagement**: designed a badges-and-rewards system and a dynamic form builder
+- **Front end**: membership and profile flows, image/avatar storage, a full **dark-mode theme**, and mobile responsive work
 
 *Stack:* C# · ASP.NET Core (MVC + Web API) · Entity Framework Core · JWT auth · Stripe · SQL  
 *Company code is private, so it is not publicly viewable — happy to discuss the work in detail.*
@@ -47,12 +47,12 @@ Worked on a full **fitness-club management platform** built as a six-project ASP
 **Contributor — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)** · *Ongoing*  
 I help build and maintain this organisation's production web platform (public site, admin dashboard, and API), working alongside a team of seven through pull requests and code review — **20+ merged pull requests** so far.
 
-- **Security hardening** — added a Content Security Policy to the public site and set `HttpOnly` on refresh-token cookies
-- **Performance & UX** — paginated large admin lists and capped unbounded result grids
-- **Responsive design** — reworked filters and layouts for mobile breakpoints
-- **Accessibility & consistency** — aligned focus outlines with the design-system colour variables
-- **Reliability** — corrected error handling so server failures are no longer reported as missing content
-- **Maintenance** — upgraded the Nuxt 3.x toolchain and kept the Go backend formatted and seeded correctly
+- **Security hardening**: added a Content Security Policy to the public site and set `HttpOnly` on refresh-token cookies
+- **Performance & UX**: paginated large admin lists and capped unbounded result grids
+- **Responsive design**: reworked filters and layouts for mobile breakpoints
+- **Accessibility & consistency**: aligned focus outlines with the design-system colour variables
+- **Reliability**: corrected error handling so server failures are no longer reported as missing content
+- **Maintenance**: upgraded the Nuxt 3.x toolchain and kept the Go backend formatted and seeded correctly
 
 *Stack:* Vue · Nuxt 3 · Go · templ · REST APIs  
 *These repositories are private, so the code is not publicly viewable.*
