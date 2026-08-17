@@ -150,9 +150,6 @@ I help build and maintain this organisation's production web platform (public si
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joeehabre&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Joeehabre&theme=radical&border_radius=10" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Joeehabre&style=for-the-badge&color=blue" alt="Profile views"/>
