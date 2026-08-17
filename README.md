@@ -12,7 +12,7 @@
 
 I'm a **Computer Science student at AUB** who loves solving problems with code.  
 My main focus areas are **Artificial Intelligence** and **Software Engineering**, where I enjoy combining theory with practical projects.  
-Alongside my studies I build software professionally — a summer internship at **MT2** on a large ASP.NET Core fitness-club platform, and currently **full-stack development at [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, shipping features to a production web platform in a seven-person team.  
+Alongside my studies I completed a **software engineering internship at MT2**, working on a large ASP.NET Core fitness-club platform, and I contribute to **[Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, an organisation whose production web platform I help build and maintain.  
 I'm driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered systems and great software**.  
 
 ---
@@ -28,12 +28,15 @@ Worked on a full **fitness-club management platform** built as a six-project ASP
 - **Engagement** — designed a badges-and-rewards system and a dynamic form builder
 - **Front end** — membership and profile flows, image/avatar storage, a full **dark-mode theme**, and mobile responsive work
 
-*Stack:* C# · ASP.NET Core (MVC + Web API) · Entity Framework Core · JWT auth · Stripe · SQL
+*Stack:* C# · ASP.NET Core (MVC + Web API) · Entity Framework Core · JWT auth · Stripe · SQL  
+*Company code is private, so it is not publicly viewable — happy to discuss the work in detail.*
 
 ---
 
-**Full-Stack Developer — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)** · *Current*  
-Building and maintaining a production web platform (public site, admin dashboard, and API) alongside a team of seven, working through pull requests and code review.
+## 🤝 Team & Community Contributions
+
+**Contributor — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)** · *Ongoing*  
+I help build and maintain this organisation's production web platform (public site, admin dashboard, and API), working alongside a team of seven through pull requests and code review. **23 merged PRs** so far.
 
 - **Security hardening** — added a Content Security Policy to the public site and set `HttpOnly` on refresh-token cookies
 - **Performance & UX** — paginated large admin lists and capped unbounded result grids
@@ -43,7 +46,7 @@ Building and maintaining a production web platform (public site, admin dashboard
 - **Maintenance** — upgraded the Nuxt 3.x toolchain and kept the Go backend formatted and seeded correctly
 
 *Stack:* Vue · Nuxt 3 · Go · templ · REST APIs  
-*Both roles are in private company repositories, so the code is not publicly viewable. Happy to discuss the work in detail.*
+*These repositories are private, so the code is not publicly viewable.*
 
 ---
 
@@ -85,45 +88,58 @@ Building and maintaining a production web platform (public site, admin dashboard
 </p>
 
 <p align="center">
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <!-- APIs & AI -->
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic_SDK-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Projects
+
+### 🌐 Applications
 
 - [**BookShelf**](https://github.com/Joeehabre/BookShelf-MVC) 📚  
   A reading-tracker web app built with **ASP.NET Core MVC** — dashboard with reading stats and a live chart, full CRUD, search and filtering, and server/client-side validation.  
   *Tech:* C#, ASP.NET Core MVC, Entity Framework Core, SQLite, Bootstrap, Chart.js.
 
-- [**AUB Course Review Platform**](https://github.com/Joeehabre/Course-Reviews-Project) 🌐  
-  Full-stack web app where AUB students anonymously review courses and professors — verified access, moderated content.  
-  *Tech:* React, Vite, FastAPI, SQLAlchemy, PostgreSQL, Alembic.
-
 - [**AI Chatbot**](https://github.com/Joeehabre/AI-Chatbot) 🤖  
-  Terminal AI chatbot powered by the **Claude API** — streaming responses, multi-turn memory, switchable personas (coder, tutor, socratic), and save/load conversations.  
+  Terminal chatbot built on the **Claude API** — response streaming, multi-turn conversation memory, switchable personas, token/cost tracking, and save/load. An exercise in API integration and CLI design.  
   *Tech:* Python, Anthropic SDK, Rich, streaming API.
 
-- [**Java Projects**](https://github.com/Joeehabre/Java-Projects) ☕  
-  A collection of Java CLI & GUI applications demonstrating **object-oriented programming**, **file I/O**, and basic **game development with Swing**.  
+### 🎓 University Projects *(team)*
 
-- [**Python Projects**](https://github.com/Joeehabre/Python-Projects) 🐍  
-  A set of Python utilities and mini-apps (calculator, weather app, password generator, snake game, to-do list) showcasing **Python fundamentals and scripting**.
+- [**AUB Course Review Platform**](https://github.com/Joeehabre/Course-Reviews-Project) 🌐  
+  Full-stack platform where AUB students anonymously review courses and professors — verified access, moderated content. Team project for **CMPS 271**; I was the largest contributor.  
+  *Tech:* React, Vite, FastAPI, SQLAlchemy, PostgreSQL, Alembic.
 
-- [**C Projects**](https://github.com/Joeehabre/C-Projects) 🔧  
-  Systems programming in C featuring a **mini Unix shell** (pipes, redirection, background jobs) and a **static HTTP/1.0 server**.  
-  *Tech:* C11, POSIX, `fork/exec`, `pipe`, `dup2`, TCP sockets, Make.
+- [**Connect-4**](https://github.com/Joeehabre/Connect4-240-Project) 🔴  
+  Terminal Connect-4 in C for **CMPS 241 (Systems Programming)**. I built the computer opponent, including a **multithreaded hard mode** and difficulty selection.  
+  *Tech:* C11, POSIX threads, Make.
+
+### 📚 Coursework & Practice Collections
 
 - [**C++ Projects**](https://github.com/Joeehabre/Cpp-Projects) ⚙️  
   Modern C++ systems projects: a **header-only hash map** (open addressing, tombstone deletion), a **thread pool** with `std::future` support, a **concurrent file downloader**, and an **unbeatable Tic-Tac-Toe AI** (Minimax + alpha-beta pruning).  
   *Tech:* C++17/20, templates, STL, `std::thread`, `std::packaged_task`, condition variables.
 
+- [**C Projects**](https://github.com/Joeehabre/C-Projects) 🔧  
+  Systems programming in C featuring a **mini Unix shell** (pipes, redirection, background jobs) and a **static HTTP/1.0 server** with path-traversal protection.  
+  *Tech:* C11, POSIX, `fork/exec`, `pipe`, `dup2`, TCP sockets, Make.
+
 - [**C# Projects**](https://github.com/Joeehabre/Csharp-Projects) 🔷  
   CLI tools and OOP work in C#: a task manager with LINQ and JSON persistence, terminal Blackjack, generic data structures built from scratch, and four Gang-of-Four design patterns.  
   *Tech:* C#, .NET 8, LINQ, generics, `IEnumerable<T>`.
+
+- [**Java Projects**](https://github.com/Joeehabre/Java-Projects) ☕  
+  Java CLI and GUI applications covering **object-oriented design**, **file I/O**, and **game development with Swing**.  
+  *Tech:* Java 17, Swing, collections, file persistence.
+
+- [**Python Projects**](https://github.com/Joeehabre/Python-Projects) 🐍  
+  Practical Python utilities and mini-apps — calculator, weather client, secure password generator, Snake, and a to-do manager.  
+  *Tech:* Python 3, `requests`, Pygame, JSON persistence.
 
 ---
 
@@ -147,7 +163,7 @@ Building and maintaining a production web platform (public site, admin dashboard
 ## 🛠 What I'm Working On
 
 - 🎓 Studying **AI & Software Engineering** at AUB — focused on algorithms, systems, and ML
-- 💼 Shipping features to a **production Vue/Nuxt + Go platform** at Meshwar Lebnen
+- 🤝 Helping build a **production Vue/Nuxt + Go platform** with the Meshwar Lebnen team
 - 🌐 Expanding the **Course Review Platform** — improving search, adding ratings analytics
 - ⚙️ Exploring **low-level systems** deeper — OS concepts, networking, and performance optimization
 - 🎯 Preparing applications for **Master's programs in Computer Science**
