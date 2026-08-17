@@ -28,7 +28,7 @@ Outside of that I write a lot of systems and tooling code for its own sake — a
 
 ## 💼 Professional Experience
 
-**Software Engineering Intern — MT2** · *Summer 2026*  
+**Full-Stack Engineering Intern — MT2** · *Summer 2026*  
 Worked on a full **fitness-club management platform** built as a six-project ASP.NET Core solution (REST API, admin CMS, public website, and a shared domain/data core). Top contributor on the team by commit count.
 
 - **Payments** — integrated **Stripe** checkout and webhook handling, plus cash-order flows
@@ -45,7 +45,7 @@ Worked on a full **fitness-club management platform** built as a six-project ASP
 ## 🤝 Team & Community Contributions
 
 **Contributor — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)** · *Ongoing*  
-I help build and maintain this organisation's production web platform (public site, admin dashboard, and API), working alongside a team of seven through pull requests and code review. **23 merged PRs** so far.
+I help build and maintain this organisation's production web platform (public site, admin dashboard, and API), working alongside a team of seven through pull requests and code review — **20+ merged pull requests** so far.
 
 - **Security hardening** — added a Content Security Policy to the public site and set `HttpOnly` on refresh-token cookies
 - **Performance & UX** — paginated large admin lists and capped unbounded result grids
