@@ -24,6 +24,7 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,10 +32,13 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 
 <p align="center">
   <!-- Frameworks & Databases -->
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -43,7 +47,7 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -56,6 +60,14 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 ---
 
 ## 📂 Featured Projects  
+
+- [**BookShelf**](https://github.com/Joeehabre/BookShelf-MVC) 📚  
+  A reading-tracker web app built with **ASP.NET Core MVC** — dashboard with reading stats and a live chart, full CRUD, search and filtering, and server/client-side validation.  
+  *Tech:* C#, ASP.NET Core MVC, Entity Framework Core, SQLite, Bootstrap, Chart.js.
+
+- [**AUB Course Review Platform**](https://github.com/Joeehabre/Course-Reviews-Project) 🌐  
+  Full-stack web app where AUB students anonymously review courses and professors — verified access, moderated content.  
+  *Tech:* React, Vite, FastAPI, SQLAlchemy, PostgreSQL, Alembic.
 
 - [**AI Chatbot**](https://github.com/Joeehabre/AI-Chatbot) 🤖  
   Terminal AI chatbot powered by the **Claude API** — streaming responses, multi-turn memory, switchable personas (coder, tutor, socratic), and save/load conversations.  
@@ -75,17 +87,9 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
   Modern C++ systems projects: a **header-only hash map** (open addressing, tombstone deletion), a **thread pool** with `std::future` support, a **concurrent file downloader**, and an **unbeatable Tic-Tac-Toe AI** (Minimax + alpha-beta pruning).  
   *Tech:* C++17/20, templates, STL, `std::thread`, `std::packaged_task`, condition variables.
 
-- [**AUB Course Review Platform**](https://github.com/Joeehabre/Course-Reviews-Project) 🌐  
-  Full-stack web app where AUB students anonymously review courses and professors — verified access, moderated content.  
-  *Tech:* React, Vite, FastAPI, SQLAlchemy, PostgreSQL, Alembic.
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joeehabre&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+- [**C# Projects**](https://github.com/Joeehabre/Csharp-Projects) 🔷  
+  CLI tools and OOP work in C#: a task manager with LINQ and JSON persistence, terminal Blackjack, generic data structures built from scratch, and four Gang-of-Four design patterns.  
+  *Tech:* C#, .NET 8, LINQ, generics, `IEnumerable<T>`.
 
 ---
 
