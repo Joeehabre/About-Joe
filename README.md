@@ -12,14 +12,27 @@
 
 I'm a **Computer Science student at AUB** who loves solving problems with code.  
 My main focus areas are **Artificial Intelligence** and **Software Engineering**, where I enjoy combining theory with practical projects.  
-Alongside my studies I work as a **full-stack developer at [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, shipping features to a production web platform in a seven-person team.  
+Alongside my studies I build software professionally — a summer internship at **MT2** on a large ASP.NET Core fitness-club platform, and currently **full-stack development at [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, shipping features to a production web platform in a seven-person team.  
 I'm driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered systems and great software**.  
 
 ---
 
 ## 💼 Professional Experience
 
-**Full-Stack Developer — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**  
+**Software Engineering Intern — MT2** · *Summer 2026*  
+Worked on a full **fitness-club management platform** built as a six-project ASP.NET Core solution (REST API, admin CMS, public website, and a shared domain/data core). Top contributor on the team by commit count.
+
+- **Payments** — integrated **Stripe** checkout and webhook handling, plus cash-order flows
+- **AI features** — built a **voice coach** with speech-to-speech interaction, and a "Log My Day" activity tracker
+- **Background services** — reminder and notification services for bookings, schedules, and renewals
+- **Engagement** — designed a badges-and-rewards system and a dynamic form builder
+- **Front end** — membership and profile flows, image/avatar storage, a full **dark-mode theme**, and mobile responsive work
+
+*Stack:* C# · ASP.NET Core (MVC + Web API) · Entity Framework Core · JWT auth · Stripe · SQL
+
+---
+
+**Full-Stack Developer — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)** · *Current*  
 Building and maintaining a production web platform (public site, admin dashboard, and API) alongside a team of seven, working through pull requests and code review.
 
 - **Security hardening** — added a Content Security Policy to the public site and set `HttpOnly` on refresh-token cookies
@@ -30,7 +43,7 @@ Building and maintaining a production web platform (public site, admin dashboard
 - **Maintenance** — upgraded the Nuxt 3.x toolchain and kept the Go backend formatted and seeded correctly
 
 *Stack:* Vue · Nuxt 3 · Go · templ · REST APIs  
-*Work is in private company repositories, so the code is not publicly viewable.*
+*Both roles are in private company repositories, so the code is not publicly viewable. Happy to discuss the work in detail.*
 
 ---
 
