@@ -162,9 +162,8 @@ I help build and maintain this organisation's production web platform (public si
 
 - 🎓 Finishing my **final year of Computer Science** at AUB
 - 🎯 Applying to **Master's programmes in Software Engineering / AI Engineering**
+- 🧠 Building side projects in **machine learning engineering** — the area I want to grow into next
 - 🤝 Helping build a **production Vue/Nuxt + Go platform** with the Meshwar Lebnen team
-- ⚙️ Going deeper on **low-level systems** — OS concepts, networking, and performance
-- 🌐 Expanding the **Course Review Platform** — better search and ratings analytics
 
 ---
 
