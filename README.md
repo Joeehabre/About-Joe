@@ -10,11 +10,19 @@
 
 ## 🙋‍♂️ About Me  
 
-I'm in my **third and final year of Computer Science at AUB**, and I'm applying to **Master's programmes in Software Engineering / AI Engineering** for next year.
+I'm in my **third and final year of Computer Science at AUB**.
 
 Most of what I know comes from building things end to end. I spent this summer interning at **MT2**, working across a large ASP.NET Core platform — payments, background services, and a voice-driven feature. I also contribute to **[Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, where I help build and maintain a production web platform with a team of seven, working through pull requests and code review.
 
 Outside of that I write a lot of systems and tooling code for its own sake — a Unix shell and an HTTP server in C, a thread pool and hash map in C++, and generic data structures in C#. I like understanding how things work underneath the abstractions.  
+
+---
+
+## 🛠 Right Now
+
+- 🎯 Applying to **Master's programmes in Software Engineering / AI Engineering**
+- 🧠 Building side projects in **machine learning engineering** — the area I want to grow into next
+- 🤝 Helping build a **production Vue/Nuxt + Go platform** with the Meshwar Lebnen team
 
 ---
 
@@ -155,15 +163,6 @@ I help build and maintain this organisation's production web platform (public si
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Joeehabre&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
-
----
-
-## 🛠 What I'm Working On
-
-- 🎓 Finishing my **final year of Computer Science** at AUB
-- 🎯 Applying to **Master's programmes in Software Engineering / AI Engineering**
-- 🧠 Building side projects in **machine learning engineering** — the area I want to grow into next
-- 🤝 Helping build a **production Vue/Nuxt + Go platform** with the Meshwar Lebnen team
 
 ---
 
