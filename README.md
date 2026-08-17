@@ -45,7 +45,7 @@ Built the **member-facing side** of a fitness-club management platform — 24 RE
 ## 🤝 Team & Community Contributions
 
 **Contributor — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)** · *Ongoing*  
-I help build and maintain this organisation's production web platform (public site, admin dashboard, and API), working alongside a team of seven through pull requests and code review — **20+ merged pull requests** so far.
+I help build and maintain this organisation's production web platform (public site, admin dashboard, and API), working alongside a team of three through pull requests and code review — **20+ merged pull requests** so far.
 
 - **Security hardening**: added a Content Security Policy to the public site and set `HttpOnly` on refresh-token cookies
 - **Performance & UX**: paginated large admin lists and capped unbounded result grids
