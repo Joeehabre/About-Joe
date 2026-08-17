@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Joe Habre</h1>
 
 <p align="center">
-  🎓 <b>Computer Science student</b> at the <b>American University of Beirut (AUB)</b><br>
-  💻 Passionate about <b>Software Development</b>, specializing in <b>AI</b> & <b>Software Engineering</b><br>
+  🎓 <b>Final-year Computer Science student</b> at the <b>American University of Beirut (AUB)</b><br>
+  💻 <b>Software Engineering</b> & <b>AI</b> — applying to Master's programmes next<br>
   🌍 Based in <b>Lebanon</b>
 </p>
 
@@ -10,10 +10,11 @@
 
 ## 🙋‍♂️ About Me  
 
-I'm a **Computer Science student at AUB** who loves solving problems with code.  
-My main focus areas are **Artificial Intelligence** and **Software Engineering**, where I enjoy combining theory with practical projects.  
-Alongside my studies I completed a **software engineering internship at MT2**, working on a large ASP.NET Core fitness-club platform, and I contribute to **[Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, an organisation whose production web platform I help build and maintain.  
-I'm driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered systems and great software**.  
+I'm in my **third and final year of Computer Science at AUB**, and I'm applying to **Master's programmes in Software Engineering / AI Engineering** for next year.
+
+Most of what I know comes from building things end to end. I spent this summer interning at **MT2**, working across a large ASP.NET Core platform — payments, background services, and a voice-driven feature. I also contribute to **[Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, where I help build and maintain a production web platform with a team of seven, working through pull requests and code review.
+
+Outside of that I write a lot of systems and tooling code for its own sake — a Unix shell and an HTTP server in C, a thread pool and hash map in C++, and generic data structures in C#. I like understanding how things work underneath the abstractions.  
 
 ---
 
@@ -159,11 +160,11 @@ I help build and maintain this organisation's production web platform (public si
 
 ## 🛠 What I'm Working On
 
-- 🎓 Studying **AI & Software Engineering** at AUB — focused on algorithms, systems, and ML
+- 🎓 Finishing my **final year of Computer Science** at AUB
+- 🎯 Applying to **Master's programmes in Software Engineering / AI Engineering**
 - 🤝 Helping build a **production Vue/Nuxt + Go platform** with the Meshwar Lebnen team
-- 🌐 Expanding the **Course Review Platform** — improving search, adding ratings analytics
-- ⚙️ Exploring **low-level systems** deeper — OS concepts, networking, and performance optimization
-- 🎯 Preparing applications for **Master's programs in Computer Science**
+- ⚙️ Going deeper on **low-level systems** — OS concepts, networking, and performance
+- 🌐 Expanding the **Course Review Platform** — better search and ratings analytics
 
 ---
 
