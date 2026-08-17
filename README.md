@@ -12,7 +12,25 @@
 
 I'm a **Computer Science student at AUB** who loves solving problems with code.  
 My main focus areas are **Artificial Intelligence** and **Software Engineering**, where I enjoy combining theory with practical projects.  
+Alongside my studies I work as a **full-stack developer at [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**, shipping features to a production web platform in a seven-person team.  
 I'm driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered systems and great software**.  
+
+---
+
+## 💼 Professional Experience
+
+**Full-Stack Developer — [Meshwar Lebnen](https://github.com/Meshwar-Lebnen)**  
+Building and maintaining a production web platform (public site, admin dashboard, and API) alongside a team of seven, working through pull requests and code review.
+
+- **Security hardening** — added a Content Security Policy to the public site and set `HttpOnly` on refresh-token cookies
+- **Performance & UX** — paginated large admin lists and capped unbounded result grids
+- **Responsive design** — reworked filters and layouts for mobile breakpoints
+- **Accessibility & consistency** — aligned focus outlines with the design-system colour variables
+- **Reliability** — corrected error handling so server failures are no longer reported as missing content
+- **Maintenance** — upgraded the Nuxt 3.x toolchain and kept the Go backend formatted and seeded correctly
+
+*Stack:* Vue · Nuxt 3 · Go · templ · REST APIs  
+*Work is in private company repositories, so the code is not publicly viewable.*
 
 ---
 
@@ -25,6 +43,7 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -33,6 +52,8 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 <p align="center">
   <!-- Frameworks & Databases -->
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -113,8 +134,10 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 ## 🛠 What I'm Working On
 
 - 🎓 Studying **AI & Software Engineering** at AUB — focused on algorithms, systems, and ML
+- 💼 Shipping features to a **production Vue/Nuxt + Go platform** at Meshwar Lebnen
 - 🌐 Expanding the **Course Review Platform** — improving search, adding ratings analytics
 - ⚙️ Exploring **low-level systems** deeper — OS concepts, networking, and performance optimization
+- 🎯 Preparing applications for **Master's programs in Computer Science**
 
 ---
 
