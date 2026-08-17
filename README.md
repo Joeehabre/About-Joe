@@ -28,16 +28,16 @@ Outside of that I write a lot of systems and tooling code for its own sake: a Un
 
 ## 💼 Professional Experience
 
-**Full-Stack Engineering Intern — MT2** · *Summer 2026*  
-Worked on a full **fitness-club management platform** built as a six-project ASP.NET Core solution (REST API, admin CMS, public website, and a shared domain/data core). Top contributor on the team by commit count.
+**Full-Stack Engineer Intern — MT2** · *Jun – Aug 2026*  
+Built the **member-facing side** of a fitness-club management platform — 24 REST API controllers and the public web application — within a six-project ASP.NET Core solution (API, admin CMS, public site, shared domain/data core).
 
-- **Payments**: integrated **Stripe** checkout and webhook handling, plus cash-order flows
-- **AI features**: built a **voice coach** with speech-to-speech interaction, and a "Log My Day" activity tracker
-- **Background services**: reminder and notification services for bookings, schedules, and renewals
-- **Engagement**: designed a badges-and-rewards system and a dynamic form builder
-- **Front end**: membership and profile flows, image/avatar storage, a full **dark-mode theme**, and mobile responsive work
+- **Computer vision & voice**: face-recognition check-in, live gym-occupancy tracking, and a **voice coach** with speech-to-speech interaction
+- **Payments**: **Stripe** checkout and webhooks, cash-order flows, and subscription/membership management
+- **Background services**: three hosted services for booking reminders, recurring class schedules, and renewal notices
+- **Engagement**: a badges-and-rewards system, a dynamic form builder, and a "Log My Day" activity tracker
+- **Front end**: membership and profile flows, avatar storage, a full **dark-mode theme**, and mobile responsive work
 
-*Stack:* C# · ASP.NET Core (MVC + Web API) · Entity Framework Core · JWT auth · Stripe · SQL  
+*Stack:* C# · ASP.NET Core (MVC + Web API) · Entity Framework Core · SQL Server · JWT auth · Stripe  
 *Company code is private, so it is not publicly viewable — happy to discuss the work in detail.*
 
 ---
